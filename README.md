@@ -23,7 +23,9 @@ Some of the commonly used libraries used by Data Scientist include:
 | JupyterLab               |
 | RStudio                  |
 | Apache Zeppelin          |
+
 print( 3 + 5)
+
 #This a sample arithmetic expression to multiply then add integers
 (3*4)+5
 # This will convert 200 minutes to hours by diving by 60

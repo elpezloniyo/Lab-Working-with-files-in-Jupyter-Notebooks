@@ -28,8 +28,10 @@ print( 3 + 5)
 
 #This a sample arithmetic expression to multiply then add integers
 (3*4)+5
+
 # This will convert 200 minutes to hours by diving by 60
 200 / 60
+
 **Objectives:**
 
 - List popular languages for Data Science

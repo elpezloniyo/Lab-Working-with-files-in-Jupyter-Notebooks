@@ -7,12 +7,15 @@ Some of the popular languages that Scientist use are:
 3. SQL
 4. Java
 5. Scala
+   
 Some of the commonly used libraries used by Data Scientist include:
+
 1. Pandas
 2. Numpy
 3. Matplotlib
 4. Scikit-learn
 5. TensorFlow and PyTorch
+   
    # Data Science Tools and Ecosystem
 
 | Data Science Tools       |
